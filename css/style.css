@@ -1,0 +1,113 @@
+body{
+    background-color:#ecebe6;
+    font-family:"Arial", sans-serif;}
+div.main {
+    margin:0 auto;
+    width:800px}
+a.first{
+    font-size:50px;
+    font-weight:bold;
+    color:black;
+    text-decoration:none}
+a.second{
+    font-size:20px;
+    color:black;
+    text-decoration:none;
+    font-weight:bold;
+    padding-top:3px}
+a.third,a.fourth,a.sixth,a.seven{
+    color:#c74350;
+    font-size:13px;}
+a.fifth{
+    color:#c74350;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:bold;}
+.year{
+    padding-top:15px;
+    font-weight:bold}
+.main-menu li {
+    display:inline-block;
+    margin-right:10px;
+    padding:10px;
+    font-size:12px}
+.main-menu li a{
+    text-decoration:none;
+    color:white;}
+ul.main-menu{
+    margin-left:0px;
+    padding-left:0px;
+    background-color:#444444;
+    border-radius:10px}
+.featured{color:#c74350;
+    font-size:25px;
+    line-height:40px;}
+p{
+    font-size:15px;}
+div.article,div.title{
+    background-color:white;
+    border-radius:10px;
+    padding:15px 15px 15px 20px;
+    margin-bottom:30px;
+    margin-top:25px;}
+div.amazing{
+    background-color:white;
+    border-radius:10px;
+    margin-top:20px;}
+.title p{
+    margin-right: 100px;
+    padding-bottom: 40px}
+.dotted{
+    border-bottom:1px dotted black;
+    font-size:12px;}
+table a{
+    color:black;
+    text-decoration:none;}
+table{
+    border-spacing:10px}
+.capt{
+    color:#c74350;
+    font-weight: bold}
+td{
+    padding:10px 100px 10px 0;
+    font-size:12px;
+    border-bottom:1px solid white}
+td:hover{
+    background-color:#c74350;
+    color:#ffffff}
+.amazing p{
+    padding:15px 15px 0 200px}
+.magazine{
+    font-weight:bold;
+    font-size:13px;
+    padding:0 0 20px 15px}
+div.footer{
+    font-size:13px;
+    padding:30px 0 0 650px}
+div.footer a{
+    color:#c74350;}
+img{
+    position: absolute;
+    bottom: 130px;
+    left: 970px}
+a:hover{
+    background-color:#c74350;
+    color:#ffffff !important;}
+li:hover{
+    background-color:#c74350;
+    color:#ffffff}
+a.first:hover{
+    background:none !important;
+    color:#c74350 !important;}
+
+input[type="submit"] {
+    display: block;
+    margin-top: 10px;}
+input[name="username"]{
+    display: inline-block;
+    margin:10px 3px 10px 0;
+}
+div.form{background-color:white;
+    border-radius:10px;
+    padding:20px 15px;
+    margin:20px 0 30px}
